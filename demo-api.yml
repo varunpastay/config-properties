@@ -3,9 +3,11 @@ spring:
     admin:
       client:
         url: http://localhost:1111
+
 management:
   endpoints:
     web:
-      expoure:
-      include: "*"
+      exposure:
+        include: "*"
+
 message: "this msg is from config server"
