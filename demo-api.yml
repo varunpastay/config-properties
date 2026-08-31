@@ -13,4 +13,4 @@ management:
       exposure:
         include: "*"
 
-message: "this msg is from config server"
+message: "this message is from config server"
