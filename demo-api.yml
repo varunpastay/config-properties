@@ -8,4 +8,4 @@ management:
     web:
       expoure:
       include: "*"
-message:"this msg is from config server"
+message: "this msg is from config server"
