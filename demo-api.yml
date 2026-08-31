@@ -1,5 +1,4 @@
-server:
-  port: 8082
+
 
 spring:
   boot:
@@ -13,4 +12,4 @@ management:
       expoure:
       include: "*"
 
-message:"this msh is from config server"
+message:"this msg is from config server"
