@@ -1,15 +1,11 @@
-
-
 spring:
   boot:
     admin:
       client:
         url: http://localhost:1111
-
 management:
   endpoints:
     web:
       expoure:
       include: "*"
-
 message:"this msg is from config server"
