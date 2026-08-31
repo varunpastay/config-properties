@@ -12,5 +12,5 @@ management:
     web:
       expoure:
       include: "*"
-      
-        
+
+message:"this msh is from config server"
